@@ -33,7 +33,7 @@ Fiecare card din panou reprezintă o activitate concretă (bug, review, actualiz
 - *Agile / Kanban* – metodologii de organizare a fluxului de lucru  
 
 ## Legături utile
-- Panou Trello – Daily Tasks Project ([https://trello.com/invite/b/68e4cb945a2b886cff5232ef/ATTI1d7cdc53fd499a5aaea064fd7f252022BF25921D/my-trello-board]) 
+- Panou Trello – Daily Tasks Project (https://trello.com/invite/b/68e4cb945a2b886cff5232ef/ATTI1d7cdc53fd499a5aaea064fd7f252022BF25921D/my-trello-board) 
 
 ##  Autor
 Ana-Maria Romanoiu – Developer  
